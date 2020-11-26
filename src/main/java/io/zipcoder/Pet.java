@@ -1,6 +1,6 @@
-package io.zipcoder.polymorphism;
+package io.zipcoder;
 
-public class Pet {
+public abstract class Pet implements Comparable<Pet>{
     private String name;
 
     public Pet(String name) {
@@ -19,5 +19,6 @@ public class Pet {
     public String getName(){
         return name;
     }
+
 
 }

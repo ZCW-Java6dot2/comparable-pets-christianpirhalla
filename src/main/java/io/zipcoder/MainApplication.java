@@ -1,4 +1,4 @@
-package io.zipcoder.polymorphism;
+package io.zipcoder;
 
 import java.io.InputStream;
 import java.util.ArrayList;
